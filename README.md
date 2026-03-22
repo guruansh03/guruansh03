@@ -1,6 +1,10 @@
-# Hi, I'm Guruansh Singh 👋
+<div align="center">
 
-> Turning data into decisions and ideas into code
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Guruansh+Singh+👋;Turning+data+into+decisions;and+ideas+into+code)](https://git.io/typing-svg)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=guruansh03&style=flat-square&color=58a6ff&label=Profile+Views)
+
+</div>
 
 ---
 
@@ -11,6 +15,32 @@
 - 🌱 Currently learning Deep Learning, NLP, and Game Design
 - 🎓 CSE @ Lovely Professional University, Punjab
 - ⚡ I love turning complex problems into simple, intelligent solutions
+
+---
+
+### Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🔍 Fraudulent Transaction Detection</h3>
+      <p>ML pipeline to detect fraudulent financial transactions using supervised learning. Features data preprocessing, feature engineering, and model evaluation with scikit-learn.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3572A5"/>
+        <img src="https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=f7931e"/>
+        <img src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=7159b5"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🎮 STRIKER</h3>
+      <p>Original 3D arena FPS-brawler built in Unity featuring ability-stealing mechanics, a charge system, directional attacks, and physics-based projectiles.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Unity-0d1117?style=flat-square&logo=unity&logoColor=ffffff"/>
+        <img src="https://img.shields.io/badge/C%23-0d1117?style=flat-square&logo=csharp&logoColor=9b59b6"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -64,3 +94,9 @@
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=guruansh03&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 </p>
+
+---
+
+### Contribution Graph
+
+![Snake animation](https://github.com/guruansh03/guruansh03/blob/output/github-contribution-grid-snake-dark.svg)
