@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Guruansh Singh 👋
 
-<!--
-**guruansh03/guruansh03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Turning data into decisions and ideas into code
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- 🔭 Building AI/ML projects — supervised learning, NLP & **Fraudulent Transaction Detection**
+- 🤝 Looking to collaborate on AI/ML open-source projects
+- 🌱 Currently learning Deep Learning, NLP, and Game Design
+- 🎓 CSE @ Lovely Professional University, Punjab
+- ⚡ I love turning complex problems into simple, intelligent solutions
+
+---
+
+### Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3572A5)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=f34b7d)
+![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=888888)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=b07219)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=ddb93a)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=mysql&logoColor=e38c00)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=e34c26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=563d7c)
+
+**Libraries & Frameworks**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=f7931e)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=7159b5)
+![Seaborn](https://img.shields.io/badge/Seaborn-0d1117?style=flat-square&logo=python&logoColor=4c72b0)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=4dabcf)
+![Pygame](https://img.shields.io/badge/Pygame-0d1117?style=flat-square&logo=python&logoColor=3fb950)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=f05032)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=007acc)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=f37626)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ed)
+![Linux](https://img.shields.io/badge/Linux_/_WSL-0d1117?style=flat-square&logo=linux&logoColor=c8a800)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=ff6c37)
+
+---
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/guruansh003/)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=c13584)](https://www.instagram.com/guruansh._.03/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=flat-square&logo=leetcode&logoColor=ffa116)](https://leetcode.com/u/guruansh03/)
+
+---
+
+### GitHub Stats
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=guruansh03&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruansh03&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=guruansh03&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+</p>
