@@ -20,7 +20,7 @@
 
 ---
 
-### Projects
+### Projects  
 
 <table>
   <tr>
@@ -34,6 +34,7 @@
       </p>
       <a href="https://github.com/guruansh03/Dynamic-Memory-Memory-Visualization">View Repo →</a>
     </td>
+
     <td width="50%">
       <h3>🎮 RPG Game — Genetic Algorithm AI</h3>
       <p>Turn-based RPG combat simulator where the enemy AI evolves using a genetic algorithm, dynamically adapting to the player's strategy every 5 turns. Built with Pygame and NumPy.</p>
@@ -43,6 +44,32 @@
         <img src="https://img.shields.io/badge/Pygame-0d1117?style=flat-square&logo=python&logoColor=3fb950"/>
       </p>
       <a href="https://github.com/guruansh03/RPG-Game-using-Genetic-Algo">View Repo →</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3>🏋️ Iron Log — Gym Tracker PWA</h3>
+      <p>Minimal offline-first gym tracking Progressive Web App with workout logging, PR tracking, volume analytics, and adaptive training splits. Uses service workers for caching and full offline functionality.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=e34c26"/>
+        <img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=563d7c"/>
+        <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=ddb93a"/>
+        <img src="https://img.shields.io/badge/PWA-0d1117?style=flat-square&logo=googlechrome&logoColor=4285F4"/>
+      </p>
+      <a href="https://github.com/guruansh03/Gym.ap">View Repo →</a>
+    </td>
+
+    <td width="50%">
+      <h3>📊 Statify — Music Data Analyzer</h3>
+      <p>Advanced Spotify & YouTube Music analytics dashboard with interactive visualizations, animated UI (GSAP), and fully local data processing for privacy-focused insights.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=ddb93a"/>
+        <img src="https://img.shields.io/badge/Chart.js-0d1117?style=flat-square&logo=chartdotjs&logoColor=ff6384"/>
+        <img src="https://img.shields.io/badge/GSAP-0d1117?style=flat-square&logo=greensock&logoColor=88ce02"/>
+        <img src="https://img.shields.io/badge/DataViz-0d1117?style=flat-square&logo=databricks&logoColor=ff3621"/>
+      </p>
+      <a href="https://github.com/guruansh03/statify.app">View Repo →</a>
     </td>
   </tr>
 </table>
