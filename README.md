@@ -19,7 +19,6 @@
 - ⚡ I love turning complex problems into simple, intelligent solutions
 
 ---
-
 ### Projects  
 
 <table>
@@ -37,7 +36,7 @@
 
     <td width="50%">
       <h3>🎮 RPG Game — Genetic Algorithm AI</h3>
-      <p>Turn-based RPG combat simulator where the enemy AI evolves using a genetic algorithm, dynamically adapting to the player's strategy every 5 turns. Built with Pygame and NumPy.</p>
+      <p>Turn-based RPG combat simulator where the enemy AI evolves using a genetic algorithm.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3572A5"/>
         <img src="https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=4dabcf"/>
@@ -50,7 +49,7 @@
   <tr>
     <td width="50%">
       <h3>🏋️ Iron Log — Gym Tracker PWA</h3>
-      <p>Minimal offline-first gym tracking Progressive Web App with workout logging, PR tracking, volume analytics, and adaptive training splits. Uses service workers for caching and full offline functionality.</p>
+      <p>Offline-first gym tracking Progressive Web App with PR tracking, volume analytics, and smart workout splits.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=e34c26"/>
         <img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=563d7c"/>
@@ -62,7 +61,7 @@
 
     <td width="50%">
       <h3>📊 Statify — Music Data Analyzer</h3>
-      <p>Advanced Spotify & YouTube Music analytics dashboard with interactive visualizations, animated UI (GSAP), and fully local data processing for privacy-focused insights.</p>
+      <p>Spotify & YouTube Music analytics dashboard with interactive charts, animations (GSAP), and privacy-focused local processing.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=ddb93a"/>
         <img src="https://img.shields.io/badge/Chart.js-0d1117?style=flat-square&logo=chartdotjs&logoColor=ff6384"/>
