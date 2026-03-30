@@ -1,10 +1,10 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58a6ff&height=200&section=header&text=Guruansh%20Singh&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Turning%20data%20into%20decisions%20and%20ideas%20into%20code&descSize=16&descAlignY=58&descColor=8b949e&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58a6ff&height=200&section=header&text=Guruansh%20Singh&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Turning%20data%20into%20decisions%20and%20ideas%20into%20code&descSize=16&descAlignY=58&descColor=8b949e&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+in+the+making...;Building+intelligent+systems+%F0%9F%A7%A0;Open+to+collaborations+%F0%9F%A4%9D;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+in+the+making...;Building+intelligent+systems+🧠;Open+to+collaborations+🤝;Always+learning%2C+always+building+🚀"/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=guruansh03&style=flat-square&color=58a6ff&label=Profile+Views)
+<img src="https://komarev.com/ghpvc/?username=guruansh03&style=flat-square&color=58a6ff&label=Profile+Views"/>
 
 </div>
 
@@ -19,47 +19,71 @@
 - ⚡ I love turning complex problems into simple, intelligent solutions
 
 ---
+
 ### Projects  
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3>🎮 RPG Game — Genetic Algorithm AI</h3>
-      <p>Turn-based RPG combat simulator where the enemy AI evolves using a genetic algorithm.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3572A5"/>
-        <img src="https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=4dabcf"/>
-        <img src="https://img.shields.io/badge/Pygame-0d1117?style=flat-square&logo=python&logoColor=3fb950"/>
-      </p>
-      <a href="https://github.com/guruansh03/RPG-Game-using-Genetic-Algo">View Repo →</a>
-    </td>
+<tr>
+<td width="50%">
 
-    <td width="50%">
-      <h3>📊 Statify — Music Data Analyzer</h3>
-      <p>Spotify & YouTube Music analytics dashboard with interactive charts, animations (GSAP), and privacy-focused local processing.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=ddb93a"/>
-        <img src="https://img.shields.io/badge/Chart.js-0d1117?style=flat-square&logo=chartdotjs&logoColor=ff6384"/>
-        <img src="https://img.shields.io/badge/GSAP-0d1117?style=flat-square&logo=greensock&logoColor=88ce02"/>
-        <img src="https://img.shields.io/badge/DataViz-0d1117?style=flat-square&logo=databricks&logoColor=ff3621"/>
-      </p>
-      <a href="https://github.com/guruansh03/statify.app">View Repo →</a>
-    </td>
-  </tr>
+<h3>🎮 RPG Game — Genetic Algorithm AI</h3>
+<p>Turn-based RPG combat simulator where the enemy AI evolves using a genetic algorithm.</p>
 
-  <tr>
-    <td width="50%">
-      <h3>🏋️ Iron Log — Gym Tracker PWA</h3>
-      <p>Offline-first gym tracking app with PR tracking, volume analytics, and smart workout splits.</p>
-      <a href="https://github.com/guruansh03/Gym.ap">View Repo →</a>
-    </td>
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3572A5"/>
+<img src="https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=4dabcf"/>
+<img src="https://img.shields.io/badge/Pygame-0d1117?style=flat-square&logo=python&logoColor=3fb950"/>
 
-    <td width="50%">
-      <h3>🧠 Dynamic Memory Visualizer</h3>
-      <p>OS memory management simulator with paging, segmentation, FIFO & LRU.</p>
-      <a href="https://github.com/guruansh03/Dynamic-Memory-Memory-Visualization">View Repo →</a>
-    </td>
-  </tr>
+<br><br>
+<a href="https://github.com/guruansh03/RPG-Game-using-Genetic-Algo">View Repo →</a>
+
+</td>
+
+<td width="50%">
+
+<h3>📊 Statify — Music Data Analyzer</h3>
+<p>Spotify & YouTube Music analytics dashboard with interactive charts, animations (GSAP), and privacy-focused local processing.</p>
+
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=ddb93a"/>
+<img src="https://img.shields.io/badge/Chart.js-0d1117?style=flat-square&logo=chartdotjs&logoColor=ff6384"/>
+<img src="https://img.shields.io/badge/GSAP-0d1117?style=flat-square&logo=greensock&logoColor=88ce02"/>
+<img src="https://img.shields.io/badge/DataViz-0d1117?style=flat-square&logo=databricks&logoColor=ff3621"/>
+
+<br><br>
+<a href="https://github.com/guruansh03/statify.app">View Repo →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h3>🏋️ Iron Log — Gym Tracker PWA</h3>
+<p>Offline-first gym tracking app with PR tracking, volume analytics, and smart workout splits.</p>
+
+<img src="https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=e34c26"/>
+<img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=563d7c"/>
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=ddb93a"/>
+<img src="https://img.shields.io/badge/PWA-0d1117?style=flat-square&logo=googlechrome&logoColor=4285F4"/>
+
+<br><br>
+<a href="https://github.com/guruansh03/Gym.ap">View Repo →</a>
+
+</td>
+
+<td width="50%">
+
+<h3>🧠 Dynamic Memory Visualizer</h3>
+<p>OS memory management simulator with paging, segmentation, FIFO & LRU.</p>
+
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3572A5"/>
+<img src="https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Pygame-0d1117?style=flat-square&logo=python&logoColor=3fb950"/>
+
+<br><br>
+<a href="https://github.com/guruansh03/Dynamic-Memory-Memory-Visualization">View Repo →</a>
+
+</td>
+</tr>
 </table>
 
 ---
@@ -107,18 +131,18 @@
 ### GitHub Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=guruansh03&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruansh03&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=guruansh03&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruansh03&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=guruansh03&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  <img src="https://streak-stats.demolab.com?user=guruansh03&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
 </p>
 
 ---
 
 ### Contribution Graph
 
-![Snake animation](https://github.com/guruansh03/guruansh03/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github.com/guruansh03/guruansh03/blob/output/github-contribution-grid-snake-dark.svg"/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer"/>
