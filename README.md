@@ -20,7 +20,7 @@
 
 ---
 
-### Projects  
+### Projects
 
 <table>
   <tr>
