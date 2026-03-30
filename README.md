@@ -34,7 +34,6 @@
       </p>
       <a href="https://github.com/guruansh03/RPG-Game-using-Genetic-Algo">View Repo →</a>
     </td>
-
     <td width="50%">
       <h3>📊 Statify — Music Data Analyzer</h3>
       <p>Spotify & YouTube Music analytics dashboard with interactive charts, animations (GSAP), and privacy-focused local processing.</p>
@@ -54,7 +53,6 @@
       <p>Offline-first gym tracking app with PR tracking, volume analytics, and smart workout splits.</p>
       <a href="https://github.com/guruansh03/Gym.ap">View Repo →</a>
     </td>
-
     <td width="50%">
       <h3>🧠 Dynamic Memory Visualizer</h3>
       <p>OS memory management simulator with paging, segmentation, FIFO & LRU.</p>
