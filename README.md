@@ -1,10 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58a6ff&height=200&section=header&text=Guruansh%20Singh&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Turning%20data%20into%20decisions%20and%20ideas%20into%20code&descSize=16&descAlignY=58&descColor=8b949e&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58a6ff&height=220&section=header&text=Guruansh%20Singh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Turning%20data%20into%20decisions%20and%20ideas%20into%20code&descSize=16&descAlignY=58&descColor=8b949e&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+in+the+making...;Building+intelligent+systems+🧠;Open+to+collaborations+🤝;Always+learning%2C+always+building+🚀"/>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+%26+ML+Engineer+in+the+making...;Building+intelligent+systems+🧠;Data+%2B+Code+%3D+Impact;Always+learning%2C+always+building+🚀"/>
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=guruansh03&style=flat-square&color=58a6ff&label=Profile+Views"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=guruansh03&theme=algolia&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -130,13 +138,18 @@
 
 ### GitHub Stats
 
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=guruansh03&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruansh03&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=guruansh03&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&cache_seconds=1800" height="160"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruansh03&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800" height="160"/>
+
 </p>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=guruansh03&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=guruansh03&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&cache_seconds=1800"/>
 </p>
 
 ---
